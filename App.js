@@ -13,92 +13,92 @@ const DATA = [
   {
     id: 'bd7acbea-c1b1-46c2-aed5-3ad53abb28ba',
     title: 'First Item',
-    url: 'http://berniereport.com/olga.html',
+    url: 'https://berniereport.com/plus_one.html',
   },
   {
     id: '3ac68afc-c605-48d3-a4f8-fbd91aa97f64',
     title: 'Second Item',
-    url: 'http://berniereport.com/olga.html',
+    url: 'https://berniereport.com/plus_one.html',
   },
   {
     id: '58694a0f-3da1-471f-bd96-145571e29d72',
     title: 'Third Item',
-    url: 'http://berniereport.com/olga.html',
+    url: 'https://berniereport.com/plus_one.html',
   },
   {
     id: 'bd7acbea-c1b1-46c2-aed5-3ad53abb28bb',
     title: 'First Item',
-    url: 'http://berniereport.com/olga.html',
+    url: 'https://berniereport.com/plus_one.html',
   },
   {
     id: '3ac68afc-c605-48d3-a4f8-fbd91aa97f64',
     title: 'Second Item',
-    url: 'http://berniereport.com/olga.html',
+    url: 'https://berniereport.com/plus_one.html',
   },
   {
     id: '58694a0f-3da1-471f-bd96-145571e29d77',
     title: 'Third Item',
-    url: 'http://berniereport.com/olga.html',
+    url: 'https://berniereport.com/plus_one.html',
   },
   {
     id: 'bd7acbea-c1b1-46c2-aed5-3ad53abb28bc',
     title: 'First Item',
-    url: 'http://berniereport.com/olga.html',
+    url: 'https://berniereport.com/plus_one.html',
   },
   {
     id: '3ac68afc-c605-48d3-a4f8-fbd91aa97f64',
     title: 'Second Item',
-    url: 'http://berniereport.com/olga.html',
+    url: 'https://berniereport.com/plus_one.html',
   },
   {
     id: '58694a0f-3da1-471f-bd96-145571e29d76',
     title: 'Third Item',
-    url: 'http://berniereport.com/olga.html',
+    url: 'https://berniereport.com/plus_one.html',
   },
   {
     id: 'bd7acbea-c1b1-46c2-aed5-3ad53abb28bd',
     title: 'First Item',
-    url: 'http://berniereport.com/olga.html',
+    url: 'https://berniereport.com/plus_one.html',
   },
   {
     id: '3ac68afc-c605-48d3-a4f8-fbd91aa97f64',
     title: 'Second Item',
-    url: 'http://berniereport.com/olga.html',
+    url: 'https://berniereport.com/plus_one.html',
   },
   {
     id: '58694a0f-3da1-471f-bd96-145571e29d75',
     title: 'Third Item',
-    url: 'http://berniereport.com/olga.html',
+    url: 'https://berniereport.com/plus_one.html',
   },
   {
     id: 'bd7acbea-c1b1-46c2-aed5-3ad53abb28be',
     title: 'First Item',
-    url: 'http://berniereport.com/olga.html',
+    url: 'https://berniereport.com/plus_one.html',
   },
   {
     id: '3ac68afc-c605-48d3-a4f8-fbd91aa97f64',
     title: 'Second Item',
-    url: 'http://berniereport.com/olga.html',
+    url: 'https://berniereport.com/plus_one.html',
   },
   {
     id: '58694a0f-3da1-471f-bd96-145571e29d74',
     title: 'Third Item',
-    url: 'http://berniereport.com/olga.html',
+    url: 'https://berniereport.com/plus_one.html',
   },
   {
     id: 'bd7acbea-c1b1-46c2-aed5-3ad53abb28bf',
     title: 'First Item',
-    url: 'http://berniereport.com/olga.html',
+    url: 'https://berniereport.com/plus_one.html',
   },
   {
     id: '3ac68afc-c605-48d3-a4f8-fbd91aa97f64',
     title: 'Second Item',
-    url: 'http://berniereport.com/olga.html',
+    url: 'https://berniereport.com/plus_one.html',
   },
   {
     id: '58694a0f-3da1-471f-bd96-145571e29d73',
     title: 'Third Item',
-    url: 'http://berniereport.com/olga.html',
+    url: 'https://berniereport.com/plus_one.html',
   },
 ];
 
@@ -139,7 +139,7 @@ class DetailsScreen extends React.Component {
     return (
 
       <WebView
-        source={{uri: navigation.getParam('url', 'http://example.com')}} 
+        source={{uri: navigation.getParam('url', 'https://example.com')}} 
       />
 
       // <View style={{ flex: 1, alignItems: 'center', justifyContent: 'center' }}>
