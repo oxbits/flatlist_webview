@@ -155,7 +155,7 @@ const RootStack = createStackNavigator(
     Details: DetailsScreen,
   },
   {
-    initialRouteName: 'Home',
+    initialRouteName: 'BernieReport.com',
   }
 );
 
